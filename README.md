@@ -190,3 +190,13 @@ App.accessRule('*.google-analytics.com/*');
 To debug the logging of Google Analytics, you need to install [Tag Assistant - Google](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk?hl=en) 
 
 Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.
+
+![Figure 1](https://github.com/virtualforce/Using-Google-Analytics-with-Meteor/blob/master/Google%20Analytics.png "Figure 1")
+
+After enable recording if your Google Analytics are correctly configured then Tag Assistant shows you the data of Page Views ,Event Tracking and Traffic 
+
+![Figure 2](https://github.com/virtualforce/Using-Google-Analytics-with-Meteor/blob/master/Google-Analytics-2.png "Figure 2")
+
+> For more help about Tag Assistanct, please watch this Youtube video:
+
+[Learn About The New & Improved Google Tag Assistant](https://www.youtube.com/watch?v=4AqanTBA9X4)
