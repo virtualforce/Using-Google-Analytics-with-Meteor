@@ -184,3 +184,9 @@ If you are building a Cordova app, you will need to allow your app to access the
 ```javascript
 App.accessRule('*.google-analytics.com/*');
 ```
+
+### Debugging of Google Analytics
+
+To debug the logging of Google Analytics, you need to install [Tag Assistant - Google](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk?hl=en) 
+
+Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.
