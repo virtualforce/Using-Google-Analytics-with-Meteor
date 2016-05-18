@@ -1,4 +1,4 @@
-# Using-Google-Analytics-with-Meteor
+# Using Google Analytics with Meteor
 Zaid Iqbal, Software Engineer, Virtual Force Pvt. Ltd.
 
 There are Mainly two ways to include Google Analytics in Meteor app 
@@ -200,4 +200,4 @@ After enable recording if your Google Analytics are correctly configured then Ta
 
 > For more help about Tag Assistanct, please watch this Youtube video:
 
-[Learn About The New & Improved Google Tag Assistant](https://www.youtube.com/watch?v=4AqanTBA9X4)
+[![Learn About The New & Improved Google Tag Assistant](http://img.youtube.com/vi/4AqanTBA9X4/0.jpg)](https://www.youtube.com/watch?v=4AqanTBA9X4)
