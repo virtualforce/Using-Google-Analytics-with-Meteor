@@ -1,4 +1,5 @@
 # Using-Google-Analytics-with-Meteor
+Zaid Iqbal, Software Engineer, Virtual Force Pvt. Ltd.
 
 There are Mainly two ways to include Google Analytics in Meteor app 
 * [Analytics JS](https://developers.google.com/analytics/devguides/collection/analyticsjs/)
